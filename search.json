@@ -21,6 +21,13 @@
     "readme": "# faisal\n\nOfficial Python package by Faisal Muzaffar.\n\n## Installation\n\n```bash\npip install faisal\n```\n\n## Usage\n\n```python\nimport faisal\n\nfaisal.qzz()\n```\n\nOutput\n\n```\nFaisal Muzaffar\n```\n\n## License\n\nMIT"
   },
   {
+    "name": "faisalimap",
+    "version": "1.0.0",
+    "author": "Faisal Muzaffar",
+    "description": "Official FaisalMuzaffar Library",
+    "readme": "# faisalimap\n\nOfficial Python package by Faisal Muzaffar.\n\n## Installation\n\n```bash\npip install faisalimap\n```\n\n## Usage\n\n```python\nimport faisalimap\n\nfaisalimap.qzz()\n```\n\nOutput\n\n```\nFaisal Muzaffar\n```\n\n## License\n\nMIT"
+  },
+  {
     "name": "fm",
     "version": "1.0.0",
     "author": "Faisal Muzaffar",
